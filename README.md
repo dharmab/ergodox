@@ -10,7 +10,13 @@ My layout is optimized for macOS
 
 This keymap is geared towards macOS since that's where I spend most of my time typing. If you want to use this with Linux, swap OS for another Ctrl and put the Insert and Delete keys somewhere.
 
-To flash a keyboard from Arch Linux
+# How to Flash
+
+## macOS
+
+Use [Teensy Loader](https://www.pjrc.com/teensy/loader_mac.html)
+
+## Arch Linux
 
 ```bash
 # Install teensy loader
