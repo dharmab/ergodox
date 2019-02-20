@@ -2,8 +2,6 @@
 
 This repository contains my custom configuration for the [Ergodox EZ](https://ergodox-ez.com/) keyboard. 
 
-My layout is optimized for macOS
-
 - `keymap.json` - Keymap file for use with [QMK Configurator](https://config.qmk.fm/#/ergodox_ez/LAYOUT_ergodox)
 - `keymap/` - Backup of keymap source code in case the QMK Configurator ever goes offline.
 - `ergodox_ez_keymap.hex` - Backup of compiled keyboard firmware, tracked in Git LFS
